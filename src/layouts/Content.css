@@ -1,0 +1,12 @@
+.Content {
+    display: flex;
+    flex: 1;
+    background-color: #eaedf6;
+    padding: 30px;
+}
+
+.Content h1 {
+    color: #131313;
+    font-size: x-large;
+    font-weight: 600;
+}
