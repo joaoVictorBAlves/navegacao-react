@@ -10,3 +10,8 @@
     font-size: x-large;
     font-weight: 600;
 }
+
+.Content p {
+    text-align: justify;
+    width: 80%;
+}
